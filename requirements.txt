@@ -1,0 +1,6 @@
+pyscf
+sparse
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
+
